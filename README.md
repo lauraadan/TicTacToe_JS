@@ -5,6 +5,6 @@
 
 LINKS
 
-- GITHUB PAGES: https://lauraadan.github.io/tic-tac-toe-javascript/
+- GITHUB PAGES: https://lauraadan.github.io/TicTacToe_JS/
 
--  GITHUB: https://github.com/lauraadan/tic-tac-toe-javascript
+-  GITHUB: https://github.com/lauraadan/TicTacToe_JS
